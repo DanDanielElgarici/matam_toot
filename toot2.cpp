@@ -172,6 +172,7 @@ int main() {
 	}
 
 	destroyList(head);
+    cout << "this is my change" << endl;
     cout << "this is a conflict" << endl;
 	return 0;
 }
